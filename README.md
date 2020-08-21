@@ -63,10 +63,10 @@ ex:- Enter The Length Of The Password: 8
 WOW... you just created a strong password.
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/noobhackers
+https://www.youtube.com/channel/UClbbfyXseA3KBAZ7tMb_WKw
 
 ### Chekout our webite 
-https://www.noob-hackers.com
+https://extrahacking.com
      
 ### Warning
 
