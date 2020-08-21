@@ -19,9 +19,9 @@ print (red+b+"""
                                                    v 1.0
 """+b+red)
 
-print (gren+b+"              <===[[ coded by N17R0 ]]===>"+b+gren)
+print (gren+b+"              <===[[ coded by RKTHEHACKERBOY ]]===>"+b+gren)
 print (" ")
-print (yellow+b+"        <---( search on youtube noob hackers )--->"+b+yellow)
+print (yellow+b+"        <---( search on youtube Extra Hacking )--->"+b+yellow)
 print (" ")
 
 length=int(input(cyan+b+"Enter The Length Of The Password: "+b+cyan))
